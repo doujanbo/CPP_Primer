@@ -7,5 +7,6 @@ int main(void)
     {
         sum += value;
     }
+
     std::cout << "sum is : " << sum << std::endl;
 }
